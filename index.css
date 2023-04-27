@@ -62,14 +62,14 @@ header a:visited:hover {
     left: 50%;
 }
 
-!.mainScreenshot {
-    width: 70%;
-    height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 10px;
-    margin-bottom: 10px;
+.mainScreenshot {
+    width: 70% !important;
+    height: auto !important;
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
 }
 
 body {
