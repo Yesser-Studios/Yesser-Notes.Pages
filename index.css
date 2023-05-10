@@ -1,6 +1,10 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #eeeeee;
+    color: whitesmoke;
+    background-image: url('YesserNotesScreenshot.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .Name {
